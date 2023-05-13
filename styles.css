@@ -113,3 +113,10 @@ input::placeholder ,  textarea::placeholder{
     color:#6f757b ;
     font-weight: 500;
 }
+
+.would{
+    display: flex;
+    flex-direction: column;
+    grid-area: 0.5rem;
+
+}
